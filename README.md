@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="" src="https://th.bing.com/th?id=OIP.gReLR6hZjwyBxHmfLN1AVwHaFj&w=288&h=216&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2"  />
+  <img height="250" src="https://devpunch.com/img/Dev-At-Work-Gif.jpg"  />
 </div>
 
 ###
@@ -9,7 +9,11 @@
 ###
 
 <div align="center">
-  <a href="https://mailto:rishikeshvk2001@gmail.com" target="_blank">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F7F7F7&center=true&width=435&lines=Designer;Developer" alt="Typing SVG" /></a>
+</div>
+
+<div align="center">
+  <a href="mailto:rishikeshvk2001@gmail.com.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/rishikeshvk/" target="_blank">
@@ -23,7 +27,7 @@
 
 ###
 
-<p align="left">Welcome to my GitHub profile! Here are some things you should know about me:<br><br>💻 I'm a passionate developer who loves to learn new technologies and create amazing projects.<br>📧 You can reach me at rishikeshvk2001@gmail.com <br>⚙️ I'm always open to collaborate with other developers and contribute to open source projects.<br>👻 I enjoy reading, writing, gaming, and traveling in my spare time.<br><br>Feel free to check out my repositories and follow me for more updates. Thanks for visiting! 😊</p>
+<p align="left">Welcome to my GitHub profile! Here are some things you should know about me:<br><br>💻 I'm a passionate developer who loves to learn new technologies and create amazing projects.<br>📧 You can reach me at <a href="mailto:rishikeshvk2001@gmail.com">rishikeshvk2001@gmail.com</a> <br>⚙️ I'm always open to collaborate with other developers and contribute to open source projects.<br>👻 I enjoy reading, writing, gaming, and traveling in my spare time.<br><br>Feel free to check out my repositories and follow me for more updates. Thanks for visiting! 😊</p>
 
 ###
 
@@ -75,8 +79,10 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishikeshvk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1&custom_title=Github Stats" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=rishikeshvk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rishikeshvk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=rishikeshvk&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
